@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "Ada
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeDesignPattern", "CompositeDesignPattern\CompositeDesignPattern.csproj", "{FB6671D8-C487-473D-8B04-70C8361E22AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern", "ProxyDesignPattern\ProxyDesignPattern.csproj", "{37E6626A-F665-4216-819D-A789374206D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{FB6671D8-C487-473D-8B04-70C8361E22AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB6671D8-C487-473D-8B04-70C8361E22AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB6671D8-C487-473D-8B04-70C8361E22AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37E6626A-F665-4216-819D-A789374206D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E6626A-F665-4216-819D-A789374206D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E6626A-F665-4216-819D-A789374206D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E6626A-F665-4216-819D-A789374206D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
