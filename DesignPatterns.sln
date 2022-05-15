@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern", "Proxy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorDesignPattern", "DecoratorDesignPattern\DecoratorDesignPattern.csproj", "{D72B1F35-84C0-4064-9C5C-1459EDD9DD9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "BridgeDesignPattern\BridgeDesignPattern.csproj", "{F20E0C3F-2F95-40F3-9E5F-54C3A248B0D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{D72B1F35-84C0-4064-9C5C-1459EDD9DD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D72B1F35-84C0-4064-9C5C-1459EDD9DD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D72B1F35-84C0-4064-9C5C-1459EDD9DD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20E0C3F-2F95-40F3-9E5F-54C3A248B0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20E0C3F-2F95-40F3-9E5F-54C3A248B0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20E0C3F-2F95-40F3-9E5F-54C3A248B0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20E0C3F-2F95-40F3-9E5F-54C3A248B0D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
