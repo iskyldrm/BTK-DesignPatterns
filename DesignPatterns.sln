@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeDesignPattern", "Brid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDesignPattern", "ObserverDesignPattern\ObserverDesignPattern.csproj", "{7C91B3E7-643C-463B-9878-F82A2984632D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{FE73B143-F43A-452E-B2A4-19822A7016E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{7C91B3E7-643C-463B-9878-F82A2984632D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C91B3E7-643C-463B-9878-F82A2984632D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C91B3E7-643C-463B-9878-F82A2984632D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
