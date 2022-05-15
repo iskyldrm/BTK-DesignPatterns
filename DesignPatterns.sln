@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverDesignPattern", "Ob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{FE73B143-F43A-452E-B2A4-19822A7016E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoDesignPattern", "MementoDesignPattern\MementoDesignPattern.csproj", "{3E321C5C-E9E8-47EB-B684-7E6F95C7D0BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE73B143-F43A-452E-B2A4-19822A7016E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E321C5C-E9E8-47EB-B684-7E6F95C7D0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E321C5C-E9E8-47EB-B684-7E6F95C7D0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E321C5C-E9E8-47EB-B684-7E6F95C7D0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E321C5C-E9E8-47EB-B684-7E6F95C7D0BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
